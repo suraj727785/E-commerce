@@ -1,6 +1,7 @@
 # E-commerce
 E-commerce website using HTML,CSS,Bootstrap and PHP
-in this project there are three section  
+
+In this project there are three section  
 
 =>first for users interface where users can select various product add it to cart and place order.
 
